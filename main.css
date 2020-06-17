@@ -10,7 +10,20 @@ h1 {
     
 }
 
+#fox {
+    float: right;
+ 
+    
+    
+    
+}
+
 footer {
+    text-align: center;
     background-color: white;
     color: black;
+    position: sticky;
+    height: 40px;
+    margin-top: 750px;
+    width: 100%;
 }
