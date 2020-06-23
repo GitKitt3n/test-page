@@ -19,11 +19,12 @@ h1 {
 }
 
 footer {
-    text-align: center;
-    background-color: white;
-    color: black;
-    position: sticky;
-    height: 40px;
-    margin-top: 750px;
-    width: 100%;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: chocolate;
+   color: black;
+   text-align: center;
+    
 }
